@@ -1,2 +1,3 @@
-# DiabetesMellitusPrediction
-Diabetes mellitus symptoms prediction using classification algorithms.
+# Diabetes Mellitus Prediction
+
+In the medical field, the ability to detect disease as early as possible is very important. This is necessary to anticipate complications that are dangerous for sufferers. Diabetes Mellitus is a dangerous disease that everyone should be aware of. Most people with this disease are diagnosed only after experiencing deadly complications. To reduce the number of deaths from this disease, health practitioners must be able to predict the symptoms of the disease quickly. Seeing these problems, my team and I conducted a research to predict the symptoms of this disease using the Naive Bayes, Decision Tree, and Random Forest algorithms. By using this algorithm it is hoped that the research results can show accurate predictions according to the data set used. This project was done with Python and the implementation of CRISP-DM framework.
